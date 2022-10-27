@@ -1,3 +1,7 @@
+/*Crie um algoritimo que lea o valor do salario minimo e o valor do salário do funcionario
+* calcule a quantidade de salários mínimos esse usuarui ganha e imprima o resultado
+* */
+
 import java.util.Scanner;
 
 public class SalarioMinimo {
